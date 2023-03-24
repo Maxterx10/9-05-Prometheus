@@ -16,17 +16,11 @@
 
 ### Задание 3
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/Maxterx10/9-05-Prometheus/blob/main/9-05-3.1.png)
+![alt text](https://github.com/Maxterx10/9-05-Prometheus/blob/main/9-05-3.2.png)
 
 ### Задание 4
 
-![alt text]()
-
----
-
-### Задание 5
-
-![alt text]()
+(![alt text](https://github.com/Maxterx10/9-05-Prometheus/blob/main/9-05-4.png))
 
 ---
