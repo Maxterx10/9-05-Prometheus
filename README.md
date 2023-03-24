@@ -21,6 +21,6 @@
 
 ### Задание 4
 
-(![alt text](https://github.com/Maxterx10/9-05-Prometheus/blob/main/9-05-4.png))
+![alt text](https://github.com/Maxterx10/9-05-Prometheus/blob/main/9-05-4.png)
 
 ---
